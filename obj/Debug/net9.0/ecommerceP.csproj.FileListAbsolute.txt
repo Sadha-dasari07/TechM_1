@@ -1,0 +1,4 @@
+C:\Users\kalva\OneDrive\Desktop\ecommerceP\obj\Debug\net9.0\ecommerceP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalva\OneDrive\Desktop\ecommerceP\obj\Debug\net9.0\ecommerceP.AssemblyInfoInputs.cache
+C:\Users\kalva\OneDrive\Desktop\ecommerceP\obj\Debug\net9.0\ecommerceP.AssemblyInfo.cs
+C:\Users\kalva\OneDrive\Desktop\ecommerceP\obj\Debug\net9.0\ecommerceP.csproj.CoreCompileInputs.cache
